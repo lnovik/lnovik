@@ -8,9 +8,7 @@
 </div>
 </div>
 
-
-
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=lnovik" alt="wander"/></p>
 
 <div>
   <a href="https://github.com/lnovik">
