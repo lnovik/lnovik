@@ -8,8 +8,6 @@
 </div>
 </div>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=lnovik" alt="wander"/></p>
-
 <div>
   <a href="https://github.com/lnovik">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lnovik&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
@@ -36,7 +34,9 @@
   <p>Feito com :heart: e JavaScript.</p>
   <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/lnovik">Rafaella Ballerini</a></p>
 </div>
-                                                                                                                                              
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=lnovik" alt="wander"/></p>
+                                                                                                                                          
                                                                                                                                               
                                                                                                                                               
  
