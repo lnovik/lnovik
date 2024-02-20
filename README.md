@@ -1,4 +1,4 @@
-### Olá, eu sou o Luan Novik, estudante de tecnologia e apaixonado por programação 👨‍💻🌴🌎
+### Olá, eu sou o Luan Novik, apaixonado por tecnologia e  programação 👨‍💻🌴🌎
 
 <div align="center">
   <a href="https://www.instagram.com/luannovik/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
